@@ -1,5 +1,6 @@
 #nginx
 #2233466866/lnmp
 #mysql
-gitlab/gitlab-ce
-jenkins/jenkins
+#gitlab/gitlab-ce
+#jenkins/jenkins
+centos:centos8
