@@ -3,4 +3,5 @@
 #mysql
 #gitlab/gitlab-ce
 #jenkins/jenkins
-centos:centos8
+#centos:centos8
+shmilylty/oneforall
