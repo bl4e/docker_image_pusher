@@ -5,4 +5,4 @@
 #jenkins/jenkins
 #centos:centos8
 #shmilylty/oneforall
-tenable/nessus
+tenable/nessus:latest-ubuntu
