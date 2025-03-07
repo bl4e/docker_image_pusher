@@ -5,4 +5,5 @@
 #jenkins/jenkins
 #centos:centos8
 #shmilylty/oneforall
-tenable/nessus:latest-ubuntu
+#tenable/nessus:latest-ubuntu
+lanzhihong/stock-scanner
